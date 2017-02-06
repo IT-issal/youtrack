@@ -3,6 +3,7 @@ Quick install YouTrack to OpenShift
 
 JetBrains offers a free license for its wonderful issue tracker called YouTrack, the responsive web design of YouTrack is enough to manage tasks from any device. Furthermore, RedHat and its fabulous product OpenShift offers free hosting for almost all main technologies, this solution is enough to manage tasks from anywhere (ok, anywhere with an internet connection). YouTrack is based on Java and OpenShift support Java, perfect solution was found.
 
+[![DEPLOY ON OpenShift](http://launch-shifter.rhcloud.com/launch/DEPLOY ON.svg)](https://openshift.redhat.com/app/console/application_type/custom?&cartridges[]=diy-0.1&initial_git_url=https://github.com/openshift-warrior/youtrack.git&name=YouTrack)
 
 How to install
 --------------
